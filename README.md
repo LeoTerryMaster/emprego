@@ -1,7 +1,7 @@
 
 # 👋 Olá, sou **Leandro Gomes**
 
-[![TerryMaster-inGame](https://media1.giphy.com/media/Y4dj3NVmgcUWCzSmoq/giphy.webp)](https://www.mult-verso.com/)
+[![TerryMaster-inGame]([https://media1.giphy.com/media/Y4dj3NVmgcUWCzSmoq/giphy.webp](https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif))](https://www.mult-verso.com/)
 
 Sou um entusiasta de **tecnologia e jogos**, focado em desenvolvimento e estudo de **jogos** e **programação**.  
 Sempre buscando novos desafios para inovar e criar soluções tecnológicas.
