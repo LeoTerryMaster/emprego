@@ -1,24 +1,5 @@
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0xgg04&layout=compact)](https://github.com/n0xgg04/github-readme-stats)
-
-</div>
-<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/w8ZJLtJbmuph.gif" alt="TuanAnh"/>
-
-
-### My public project
-- [Nox Mod Skin](https://play.google.com/store/apps/details?id=com.nox.aov.std&hl=vi)
-  [(Nox Mod Skin PRO](https://play.google.com/store/apps/details?id=com.noxinfinity.modskin&hl=vi)
-- [BKX Chatbot](https://www.facebook.com/bkx.conmmunity/)
-- [MemeSounds](https://play.google.com/store/apps/details?id=com.noxinfinity.memevotreevc&hl=vi)
-- [AOV Wallpapers](https://play.google.com/store/apps/details?id=com.noxinfinity.wallpapers&hl=vi)
-- [Nox Infinity](https://noxinfinity.tech)
-- [Liqi News](https://play.google.com/store/apps/details?id=com.noxinfinity.liqi.news)
-- [NoxTik - Download video from Tiktok, Youtube,...](https://play.google.com/store/apps/details?id=com.noxinfinity.noxtik)
-- [S-Learn](https://play.google.com/store/apps/details?id=com.noxinfinity.luyenthiptit)
-  
-
 ## Connect with me📱  
   
 
