@@ -1,41 +1,6 @@
 
 
 
-## <div align="center">About me</div>  
-  
-<div style="display:flex;flex-direction:row;">
-  
-<img align="left" src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif?raw=true" alt="GO"/>
-
-<div>
-  
-- <div align="center">🔭 My name is Luong Tuan Anh</div>  
-  
-- <div align="center">🏫I am studying at  Posts & Telecoms Institute of Technology</div>  
-  
-- <div align="center">😚I love programming </div> 
-
-</div>
-</div>
-  
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+android+app+developer)](https://github.com/n0xgg04)
-
- </div>  
-
- </br>
-</hr>
-
-## <div align="center">Skills 📖  </div>  
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,typescript,javascript,react,nextjs,redux,tailwind,nodejs,express,laravel,golang,redis,vue,flutter,docker,redis,nestjs,graphql,aws&perline=6)]()
-
-</br>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0xgg04&layout=compact)](https://github.com/n0xgg04/github-readme-stats)
 
 </div>
