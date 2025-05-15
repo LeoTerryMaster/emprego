@@ -1,3 +1,61 @@
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" align="center" style="width: 100%" />
+</div>  
+
+## <div align="center">About me</div>  
+  
+<div style="display:flex;flex-direction:row;">
+  
+<img align="left" src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif?raw=true" alt="GO"/>
+
+<div>
+  
+- <div align="center">🔭 My name is Luong Tuan Anh</div>  
+  
+- <div align="center">🏫I am studying at  Posts & Telecoms Institute of Technology</div>  
+  
+- <div align="center">😚I love programming </div> 
+
+</div>
+</div>
+  
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+android+app+developer)](https://github.com/n0xgg04)
+
+ </div>  
+
+ </br>
+</hr>
+
+## <div align="center">Skills 📖  </div>  
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,typescript,javascript,react,nextjs,redux,tailwind,nodejs,express,laravel,golang,redis,vue,flutter,docker,redis,nestjs,graphql,aws&perline=6)]()
+
+</br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0xgg04&layout=compact)](https://github.com/n0xgg04/github-readme-stats)
+
+</div>
+<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/w8ZJLtJbmuph.gif" alt="TuanAnh"/>
+
+
+### My public project
+- [Nox Mod Skin](https://play.google.com/store/apps/details?id=com.nox.aov.std&hl=vi)
+  [(Nox Mod Skin PRO](https://play.google.com/store/apps/details?id=com.noxinfinity.modskin&hl=vi)
+- [BKX Chatbot](https://www.facebook.com/bkx.conmmunity/)
+- [MemeSounds](https://play.google.com/store/apps/details?id=com.noxinfinity.memevotreevc&hl=vi)
+- [AOV Wallpapers](https://play.google.com/store/apps/details?id=com.noxinfinity.wallpapers&hl=vi)
+- [Nox Infinity](https://noxinfinity.tech)
+- [Liqi News](https://play.google.com/store/apps/details?id=com.noxinfinity.liqi.news)
+- [NoxTik - Download video from Tiktok, Youtube,...](https://play.google.com/store/apps/details?id=com.noxinfinity.noxtik)
+- [S-Learn](https://play.google.com/store/apps/details?id=com.noxinfinity.luyenthiptit)
+  
+
 ## Connect with me📱  
   
 
